@@ -6,12 +6,12 @@ Command line MDF-e document app using ACBR
 Clone or download this repository
 
 ### Run 
-To run app some commands; 
-1 - pathXML "path\123-mdfe.xml"
-2 - typePrint "CCE" or "DAMDFE"
-3 - pathlogo "path\logo.bmp"
+To run app some commands; <br />
+1 - pathXML "path\123-mdfe.xml"<br />
+2 - typePrint "CCE" or "DAMDFE"<br />
+3 - pathlogo "path\logo.bmp"<br />
 
-or use imprimeDAMDFe.bat in path;
+or use imprimeDAMDFe.bat in path;<br />
 
 
 
